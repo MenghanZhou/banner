@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<title>HTML IS struture only(before)</title>
+</head>
+<body>
+	<h1 style="color:green;font-size:60px;text-align:center;" 
+	>Html is Structure only</h1>
+ <p style="margin: 0 100px 0 100px; font-size: 1.5em;">LOREM IPSUM DOLOR SIT AMET,consectetur asispasid selifjie.
+ alskdjfal eofjaoiejf slkdjfaowejf skljdfalsefi skdjf.</p>
+ <p>Loalskdjfals alskdjfasidjfe
+ sdkjfapsodjf,sldkjfeoijfeojfa.</p>
+<footer>
+	<hr>
+	<p style="text-align: center;"
+	   onclick="alert('EMALING US IS USELESS')">tECH support:ksjdlaj</p>
+</footer>
+</body>
+</html>
